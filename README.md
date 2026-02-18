@@ -11,6 +11,7 @@ Dimensional modeling.
 Optimized SQL transformations.
 Analytical reporting using SQL.
 ##🏗️ Data Architecture
+----
 The project uses a three-layer warehouse architecture: Architecture
 
 Landing Layer (Raw Zone):
@@ -26,6 +27,7 @@ Star-schema tables (Fact & Dimension tables).
 Optimized for reporting and BI tools.
 Supports analytical queries like trends, aggregations, and KPIs.
 ##📖 Project Overview
+----
 This project builds a complete Data Warehouse Pipeline in SQL Server with the following major components:
 
 ####🔹 Data Ingestion:
@@ -56,6 +58,7 @@ Clear folder structure.
 SQL scripts for every step.
 Easily reusable for interviews or portfolio use.
 ##🚀 Project Requirements
+----
 Objective:
 Develop a clean, scalable SQL Server–based data warehouse that consolidates raw source data into a structured analytical model. The goal is to support insights such as customer behavior, sales performance, and business KPIs through optimized SQL reporting.
 
@@ -66,6 +69,7 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 ##📊 BI: Analytics & Reporting (Data Analysis)
+----
 Objective:
 Build SQL-driven analytical reports that provide deep insights into business performance. The goal is to transform cleaned and modeled data into meaningful metrics that support strategic decision-making.
 
@@ -76,6 +80,7 @@ Sales Trends.
 These analytical insights help stakeholders monitor KPIs, identify growth opportunities, evaluate operational performance, and make informed business decisions based on data.
 
 ##📂 Repository Structure
+----
 ````SQL-Server-Ingestion-Pipeline/
 ├── Datasets/                         # Raw source datasets
 │   ├── Source_CRM/                   # CRM data files
@@ -100,9 +105,11 @@ These analytical insights help stakeholders monitor KPIs, identify growth opport
 |
 └── README.md                        # Project overview and instructions````
 ##🛡️ License
+----
 This project is released under the MIT License. You are free to use, modify, distribute, and integrate this project into personal or commercial applications.
 
 ##🌟 About Me
+----
 My name is Abdul Muqtadeer Baag, and I specialize in building data-driven solutions using SQL Server and modern data engineering practices. I enjoy designing clean data architectures, creating efficient ETL pipelines, and building analytical models that convert raw data into actionable insights.
 
 ####My core skills include:
@@ -116,5 +123,6 @@ Basic Reporting with Power BI.
 I focus on writing clean, well-documented, and scalable SQL solutions suitable for real-world business environments. I am continuously learning and improving my technical capabilities to build stronger and more efficient data systems.
 
 ##📬 Contact
+----
 If you would like to connect or collaborate, feel free to reach out:
 📧 Email: abdulbhole04@gmail.com
