@@ -110,7 +110,7 @@ This project is released under the MIT License. You are free to use, modify, dis
 
 ##🌟 About Me
 ----
-My name is Abdul Muqtadeer Baag, and I specialize in building data-driven solutions using SQL Server and modern data engineering practices. I enjoy designing clean data architectures, creating efficient ETL pipelines, and building analytical models that convert raw data into actionable insights.
+My name is Abdul Malik Bhole, and I specialize in building data-driven solutions using SQL Server and modern data engineering practices. I enjoy designing clean data architectures, creating efficient ETL pipelines, and building analytical models that convert raw data into actionable insights.
 
 ####My core skills include:
 
